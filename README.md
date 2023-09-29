@@ -40,6 +40,6 @@ Röck M, Passer A, Allacker K. “SLiCE: An Open Data Model for Scalable High-De
 
 
 # Cite as
-When referring to this work, please cite both the descriptor and the dataset:
+When referring to this work, please cite both the data model and the tool:
 * SLiCE Building Data Model (Preprint): RÖCK, Martin, PASSER, Alexander, & ALLACKER, Karen. (2023). SLiCE: An Open Data Model for Scalable High-Definition Life Cycle Engineering, Hotspot Analysis and Dynamic Assessment of Buildings. Zenodo. https://doi.org/10.5281/zenodo.8369244
 * SLiCE Hotspot Analysis Tool (Pre-release): RÖCK, Martin, PASSER, Alexander, & ALLACKER, Karen. (2023). mroeck/slice_hotspots: Pre-release (0.1.1). Zenodo. https://doi.org/10.5281/zenodo.8366478
